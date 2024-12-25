@@ -1,4 +1,4 @@
-# creating dictionary of words
+# Creating Dictionary of Words
 
 <h1> Dictionary of Words Using Linked List   </h1>
 
