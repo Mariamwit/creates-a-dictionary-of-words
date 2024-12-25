@@ -1,6 +1,6 @@
 # creating dictionary of words
 
-<h1> Calculating Resistance in Ohms and Kilo-ohms Using Color Bands  </h1>
+<h1> Dictionary of Words Using Linked List   </h1>
 
 
 <h2>Description</h2>
